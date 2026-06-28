@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Spam Classifier</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <div class="boddy">
+    <div class="container">
+
+        <h1>Email Spam Classifier</h1>
+
+        <div class="one">
+        <form method="POST">
+             <div class="align">
+            <textarea
+                name="email"
+                placeholder="Enter Email Content..."
+                required>
+            </textarea>
+            </div>
+            <div class="align">
+             <button type="submit">
+                Check Email
+            </button>
+            </div>
+            
+
+        </form>
+        </div>
+        
+
+        <h2>{{ prediction }}</h2>
+
+    </div>
+    </div>
+    <footer>
+        <p>&copy | 2026 | Satyam Kumar | All Rights Reserved</p> 
+    </footer>
+
+</body>
+</html>

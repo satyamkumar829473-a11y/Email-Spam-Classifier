@@ -1,0 +1,19 @@
+Introduction:
+Email Soam Classifier is an AI based web application that automatically classifies
+emails as spam or not spam. This system uses NLP to analyze email text and predict 
+whether it is unwanted or not.
+
+Objective:
+The main objectives of this projrcts are:
+- to detect spam emails automatically.
+- to reduce unwanted email messages.
+- to provide a user friendly web application.
+
+Working of the project:
+STEP 1- A collection of datasets containing spam and not spam emails.
+STEP 2- Processing of text takes place where unwanted characters are remover, 
+        convert text to lowercase.
+STEP 3- The processed data is then trained using machine learning.And saving of 
+        trained model takes palce.
+STEP 4- Users enters an email message through the web interface. The model
+        predicts whether the email is spam or not.        
