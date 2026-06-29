@@ -8,7 +8,7 @@ A machine learning-based Email Spam Classifier developed using **Python**, **Fla
 - Fast and accurate predictions
 - Pre-trained model for instant results 
 
-##Internship Project Details
+## Internship Project Details
 - **Intern ID:** CITS1377
 - **Name:** Satyam Kumar
 - **Project Name:** Email Spam Classifier 
