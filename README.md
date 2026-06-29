@@ -8,6 +8,12 @@ A machine learning-based Email Spam Classifier developed using **Python**, **Fla
 - Fast and accurate predictions
 - Pre-trained model for instant results 
 
+##Internship Project Details
+- **Intern ID:** CITS1377
+- **Name:** Satyam Kumar
+- **Project Name:** Email Spam Classifier 
+- **Project Duration:** 6 Weeks
+
 ## 🛠️ Technologies Used
 - Python
 - Flask
